@@ -28,6 +28,12 @@
 
 ![React Select](https://hidden1.zentica-global.com/wp-content/uploads/2021/03/1615702989_992_React-Dropdown-Select-Tutorial-with-React-select.png)
 
+#### React Splide
+
+[React Splide](https://www.npmjs.com/package/@splidejs/react-splide?s=03) a lightweight, flexible and accessible slider and carousel.
+
+![React Splide](https://user-images.githubusercontent.com/17166252/106288402-605a3e80-621e-11eb-9704-6a88d94180c8.png)
+
 #### React Window
 
 [React Window](https://github.com/bvaughn/react-window) components for efficiently rendering large lists and tabular data.
